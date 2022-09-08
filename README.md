@@ -30,7 +30,7 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 <p align="center">
   <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/65268342_468142970422499_9171565561509838848_n.jpg" width="600">
   <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/LFR.png" width="600">
-  <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/69096385_2035662713200444_142382825901916160_n.jpg" width="600"> 
+  
 </p>
 
 
