@@ -24,3 +24,4 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 - D=Kd multiplied by derivative value
 
 
+The constants Kp, Ki, and Kd are not the same for every line follower. One must assume approximate values for the above three constants every time and then compile and burn the code into the microcontroller for testing the behaviour of the line follower. This is a very tedious job, and a lot of time is wasted during testing.
