@@ -9,6 +9,9 @@ A line following robot created using Arduino Nano. This robot can also sense obs
 #### Sensor Array
 
 <p align="center">
+  <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/65268342_468142970422499_9171565561509838848_n.jpg" width="400">
+</p>
+<p align="center">
 <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/LFR.png" width="400">
 </p>
 
