@@ -84,68 +84,68 @@ void loop() {
     patt=getPattern();
     if(DEBUGGING)continue;
 
-//    if(patt=="11111111111"){ // black box
-//      halt();
-//      oled.clearDisplay();
-//      oled_printXY(20,0,"MISSION\n COMPLETE!",true,2);
-//      while(!DEBUGGING);
-//      oled.setCursor(0,0);oled.print(" Restarting...  ");
-//      oled.setCursor(0,1);oled.print("Place the Robot ");
-//      while(DEBUGGING);
-//      dir='S';
-//      oled_clear();
-//      prevMillis=millis()+1000;
-//      delay(1000);continue;
-//    }else if(patt=="10000000001"){ // T
-//      tCount++;
-//    }
-//    
-//    if(hand=='R'){
-//      if(ds[5] && ds[0]){
-//        dir='L';
-//      }else if(ds[5] && ds[10]){
-//        halt();delay(halt_delay);
-//        turn('R',90);turn('R');
-//        dir='S';
-//        prevMillis=millis();
-//        continue;
-//      }
-//    }else{ // hand=='L'
-//      if(ds[5] && ds[10]){
-//        dir='R';
-//      }else if(ds[5] && ds[0]){
-//        halt();delay(halt_delay);
-//        turn('L',90);turn('L');
-//        dir='S';
-//        prevMillis=millis();
-//        continue;
-//      }
-//    }
+    if(patt=="11111111111"){ // black box
+      halt();
+      oled.clearDisplay();
+      oled_printXY(20,0,"MISSION\n COMPLETE!",true,2);
+      while(!DEBUGGING);
+      oled.setCursor(0,0);oled.print(" Restarting...  ");
+      oled.setCursor(0,1);oled.print("Place the Robot ");
+      while(DEBUGGING);
+      dir='S';
+      oled_clear();
+      prevMillis=millis()+1000;
+      delay(1000);continue;
+    }else if(patt=="10000000001"){ // T
+      tCount++;
+    }
     
-//    if(straight_line(patt)){
+    if(hand=='R'){
+      if(ds[5] && ds[0]){
+        dir='L';
+      }else if(ds[5] && ds[10]){
+        halt();delay(halt_delay);
+        turn('R',90);turn('R');
+        dir='S';
+        prevMillis=millis();
+        continue;
+      }
+    }else{ // hand=='L'
+      if(ds[5] && ds[10]){
+        dir='R';
+      }else if(ds[5] && ds[0]){
+        halt();delay(halt_delay);
+        turn('L',90);turn('L');
+        dir='S';
+        prevMillis=millis();
+        continue;
+      }
+    }
+    
+    if(straight_line(patt)){
     if(patt=="00000000000" && 0<pos && pos<500){
       halt();delay(halt_delay);
       if(dir=='S') turn(hand); else turn(dir);
       dir='S';
     }
     pid(true);
-//    if(0<pos && pos<500){
-//      max_spd=MAX_SPD;
-//      pid(true);
-//    }else{
-//      max_spd=191;
-//      pid(true);
-//    }
+    if(0<pos && pos<500){
+      max_spd=MAX_SPD;
+      pid(true);
+    }else{
+      max_spd=191;
+      pid(true);
+    }
 
     
-//    else{
-//      halt();
-//      oled.clearDisplay();
-//      oled_printXY(10,20,patt,true,2);
-//      oled_printXY(10,40,lastPatt,true,2);
-//      while(!DEBUGGING);
-//    }
+    else{
+      halt();
+      oled.clearDisplay();
+      oled_printXY(10,20,patt,true,2);
+      oled_printXY(10,40,lastPatt,true,2);
+      while(!DEBUGGING);
+    }
     
     lastPatt=patt; 
-  } // endwhile;
+  }  endwhile;
 }
