@@ -5,5 +5,5 @@ A line following robot created using Arduino Nano. This robot can also sense obs
 </p>
 The accuracy of the movement of a line follower mostly depends on the motor movement and sensing system. Many algorithms are used to coordinate the line data read by the sensors to control the motors. But a simple and most precise control is obtained by PID (proportional integral derivative) algorithm.
 
-https://user-images.githubusercontent.com/74035623/172057608-b405b7c9-6d87-4bb6-a85a-57520bc15b1f.mp4
+<p align="center"> https://user-images.githubusercontent.com/74035623/172057608-b405b7c9-6d87-4bb6-a85a-57520bc15b1f.mp4 </p>
 
