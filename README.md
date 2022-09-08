@@ -6,13 +6,11 @@ https://user-images.githubusercontent.com/74035623/189162110-b9ade521-0b74-466f-
 
 
 A line following robot created using Arduino Nano. This robot can also sense obstacles and avoid them, follow a wall, and skip over line gaps. Sonar sensor has been used to detect obstacles. This robot has a programmable interface. The type of line can be changed from the interface. It can swicth between black line or white surface or white line on black surface. Motor speed can also be changed through the interface. 
-#### Sensor Array
 
 <p align="center">
   <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/65268342_468142970422499_9171565561509838848_n.jpg" width="400">
-</p>
-<p align="center">
-<img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/LFR.png" width="400">
+  <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/LFR.png" width="400">
+  <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/69096385_2035662713200444_142382825901916160_n.jpg" width="400"> 
 </p>
 
 
