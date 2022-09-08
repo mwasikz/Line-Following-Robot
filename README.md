@@ -16,5 +16,6 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ```math
 \sqrt{3}
+
 ```
 
