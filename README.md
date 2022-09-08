@@ -2,16 +2,16 @@
 
 ### 🟠 Demo
 
-
-
-https://user-images.githubusercontent.com/74035623/189161651-07facec4-59fa-4720-92bd-8d90d749b1d5.mp4
-
+https://user-images.githubusercontent.com/74035623/189162110-b9ade521-0b74-466f-ad25-5ea258a4fc6d.mp4
 
 
 A line following robot created using Arduino Nano. This robot can also sense obstacles and avoid them, follow a wall, and skip over line gaps. Sonar sensor has been used to detect obstacles. This robot has a programmable interface. The type of line can be changed from the interface. It can swicth between black line or white surface or white line on black surface. Motor speed can also be changed through the interface. 
+#### Sensor Array
+![65268342_468142970422499_9171565561509838848_n](https://user-images.githubusercontent.com/74035623/189162335-6881be12-cb99-4112-81e5-fc010ed0d36c.jpg)
 <p align="center">
 <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/LFR.png" width="400">
 </p>
+
 
 ### 🟠 PID Algorithm
 The accuracy of the movement of a line follower mostly depends on the motor movement and sensing system. Many algorithms are used to coordinate the line data read by the sensors to control the motors. But a simple and most precise control is obtained by PID (proportional integral derivative) algorithm.
