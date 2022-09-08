@@ -14,5 +14,5 @@ The accuracy of the movement of a line follower mostly depends on the motor move
 
 The PID function formula having a combination of three successive terms [P]+[I]+[D] is as follows:
 
-$$\left f (.t) \left
+$$\left f (.t) \left$$
 
