@@ -16,11 +16,11 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ![equation](https://latex.codecogs.com/svg.image?f(t)%20=%20%5BK_%7Bp%7De(t)%5D&plus;%5BK_%7Bi%7D%5Cint%20e(t)dt%5D&plus;%5BK_%7Bp%7D%5Cfrac%7Bde%7D%7Bdt%7D%5D)
 
-Kp=constant for proportion
-Ki=constant for integral
-Kd=constant for derivative
-P=Kp multiplied by error value
-I=Ki multiplied with previous integral error value
-D=Kd multiplied by derivative value
+- Kp=constant for proportion
+- Ki=constant for integral
+- Kd=constant for derivative
+- P=Kp multiplied by error value
+- I=Ki multiplied with previous integral error value
+- D=Kd multiplied by derivative value
 
 
