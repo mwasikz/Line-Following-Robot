@@ -13,6 +13,7 @@ A line following robot created using Arduino Nano. This robot can also sense obs
 The accuracy of the movement of a line follower mostly depends on the motor movement and sensing system. Many algorithms are used to coordinate the line data read by the sensors to control the motors. But a simple and most precise control is obtained by PID (proportional integral derivative) algorithm.
 
 The PID function formula having a combination of three successive terms [P]+[I]+[D] is as follows:
-<img src="https://latex.codecogs.com/gif.latex?f(t) = [K_{p}e(t)]+[K_{i}\int e(t)dt]+[K_{p}\frac{de}{dt}]" />
+<img src="https://latex.codecogs.com/gif.latex?f(t) = [K_{p}e(t)]+[K_{i}\int e(t)dt]+[K_{p}\frac{de}{dt}]" >
+...
 f(t) = [K_{p}e(t)]+[K_{i}\int e(t)dt]+[K_{p}\frac{de}{dt}]
 
