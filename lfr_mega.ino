@@ -87,7 +87,7 @@ void loop() {
     if(patt=="11111111111"){ // black box
       halt();
       oled.clearDisplay();
-      oled_printXY(20,0,"MISSION\n COMPLETE!",true,2);
+      oled_printXY(20,0,"TRACK\n ENDED!",true,2);
       while(!DEBUGGING);
       oled.setCursor(0,0);oled.print(" Restarting...  ");
       oled.setCursor(0,1);oled.print("Place the Robot ");
