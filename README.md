@@ -103,4 +103,12 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ---
 
-### 
+### Champion at NDITC_init 2019
+
+**Institute: Notre Dame College**
+
+**Segment name: SPOT N GO**
+
+
+
+![IMG_9800-1](https://user-images.githubusercontent.com/74035623/202484660-82e529c8-9378-483e-9d22-4df152405d03.JPG)
