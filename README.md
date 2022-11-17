@@ -46,5 +46,14 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ![Baiust (2)](https://user-images.githubusercontent.com/74035623/202478562-9e8d244b-6d74-4e56-8419-1c5175b97f05.jpg)
 
-![baiust_tropy](https://user-images.githubusercontent.com/74035623/202478637-42623619-b522-42d0-b535-eb3ec56ddfb0.JPG)
+
+![baiust](https://user-images.githubusercontent.com/74035623/202479017-39ed7ef0-03b4-4647-a950-185424e6344f.JPG)
+
+### Champion at DUET CSE FEST 2019
+
+**Institute: Dhaka University of Engineering and Technology**
+
+**Segment name: Robo Rides**
+
+
 
