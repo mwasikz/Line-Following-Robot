@@ -32,6 +32,8 @@ The PID function formula having a combination of three successive terms [P]+[I]+
   <img src="https://github.com/mwasikz/Line-Following-Robot/blob/main/reademe_assets/LFR.png" width="600">
   
 </p>
+
 ---
+
 ## :orange_circle: Accolades
 
