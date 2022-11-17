@@ -61,4 +61,16 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ---
 
+### Champion at EEE DAY 2019
+
+**Institute: Independent University of Bangladesh**
+
+**Segment name: Line Following Robot**
+
+
+![_DSC8592](https://user-images.githubusercontent.com/74035623/202482501-f573972d-7142-4eb5-a82d-0e1bc10a6651.JPG)
+
+---
+
+
 
