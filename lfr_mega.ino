@@ -1,3 +1,8 @@
+/* 
+Fast Line Following Robot
+Developed by Md. Wasikuzzaman Azad Sajol & Md. Mubassirul Islam
+Team Maple Robotics
+*/
 #include <NewPing.h> 
 #include <EEPROM.h>
 #include <Wire.h>
