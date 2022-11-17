@@ -72,5 +72,13 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ---
 
+### 2nd Runner Up at BUP TECHSURGENCE 2019
 
+**Institute: Bangladesh University of Professionals**
+
+**Segment name: Line Following Robot**
+
+![bup](https://user-images.githubusercontent.com/74035623/202482949-f7902fe6-7293-45d4-a5ed-fc74017bc7e4.jpg)
+
+---
 
