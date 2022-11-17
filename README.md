@@ -37,4 +37,14 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ## :orange_circle: Accolades
 
-### 
+### Champion at BAIUST ROBO FEST 2018
+
+**Institute: Bangladesh Army International University of Science & Technology**
+
+**Segment name: Line Following Robot**
+
+
+![Baiust (2)](https://user-images.githubusercontent.com/74035623/202478562-9e8d244b-6d74-4e56-8419-1c5175b97f05.jpg)
+
+![baiust_tropy](https://user-images.githubusercontent.com/74035623/202478637-42623619-b522-42d0-b535-eb3ec56ddfb0.JPG)
+
