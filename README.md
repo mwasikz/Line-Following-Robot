@@ -82,3 +82,25 @@ The PID function formula having a combination of three successive terms [P]+[I]+
 
 ---
 
+### Champion at INTERNATIONAL ROBO FEST 2019
+
+**Institute: East West University**
+
+**Segment name: AUTONOMOUS ROBOTICS CONTEST**
+
+![IMG_7352](https://user-images.githubusercontent.com/74035623/202483408-f0675349-111b-4d1d-b005-96f30447c6fc.JPG)
+
+---
+
+### Champion at TECHNOCRACY 2019
+
+**Institute: Rajshahi University of Engineering & Technology**
+
+**Segment name: ROBO SPEEDSTER**
+
+
+![ruet](https://user-images.githubusercontent.com/74035623/202483750-f6b9fbe5-9058-4e58-aaec-0a60ee6ea3b3.png)
+
+---
+
+### 
